@@ -1,0 +1,17 @@
+django==3.1.13
+djangorestframework==3.12.4
+djoser==2.1.0
+drf-yasg==1.20.0
+redis==3.5.3
+scrapy==2.5.1
+elasticsearch==7.15.2
+elasticsearch-dsl==7.4.0
+fake-useragent==0.1.11
+coreapi==2.3.3
+django-cors-headers==3.10.0
+djangorestframework-simplejwt==4.8.0 
+jieba
+pymysql
+lxml
+beautifulsoup4
+PyJWT==2.1.0

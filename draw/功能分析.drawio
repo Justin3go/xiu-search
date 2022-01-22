@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="Noz6gLVHBlK1gitg_ubN" name="第 1 页">
+        <mxGraphModel dx="720" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="搜索功能" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="230" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&amp;nbsp;- 速度快&lt;br&gt;&amp;nbsp;- 分页显示&lt;br&gt;&amp;nbsp;- 去除垃圾内容&lt;br&gt;&amp;nbsp;- 相关性排序&lt;br&gt;&amp;nbsp;- 关键词高亮显示&lt;br&gt;&amp;nbsp;- 简洁美观的界面" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="270" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="历史记录及搜索建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="230" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&amp;nbsp;- 保存用户的搜索历史&lt;br&gt;&amp;nbsp;- 实时建议功能&lt;br&gt;&amp;nbsp;- 建议与历史记录结合&lt;br&gt;&amp;nbsp;- 简洁美观的下拉显示&lt;br&gt;&amp;nbsp;- 使用图标区分建议和历史." style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="270" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="用户系统" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontStyle=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="230" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&amp;nbsp;- JWT登录功能&lt;br&gt;&amp;nbsp;- 使用邮箱注册&lt;br&gt;&amp;nbsp;- 邮箱重置&lt;br&gt;&amp;nbsp;- 密码重置&lt;br&gt;&amp;nbsp;- 交互优雅的登录注册界面." style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="270" width="190" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
